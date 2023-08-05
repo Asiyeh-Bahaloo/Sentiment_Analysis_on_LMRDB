@@ -1,0 +1,11 @@
+jupyterlab
+pytest
+numpy
+sklearn
+scikit-learn
+matplotlib
+tensorflow-cpu
+pylint
+pandas
+scipy
+
